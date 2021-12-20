@@ -1,5 +1,6 @@
-h1 {
-  color: "#FFFFFF";
+.page-header {
+  background-color: black;
+  color: #fff;
   display: flex;
   position: absolute;
 }

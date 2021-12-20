@@ -4,8 +4,7 @@
   "description": "Just example for learning html css",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "stylelint": "stylelint --fix"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -26,11 +25,11 @@
     "normalize.css": "^8.0.1"
   },
   "devDependencies": {
-    "nano-staged": "^0.4.5",
-    "prettier": "^2.5.1",
-    "simple-git-hooks": "^2.7.0",
-    "stylelint": "^14.1.0",
-    "stylelint-config-standard": "^24.0.0",
-    "stylelint-order": "^5.0.0"
+    "nano-staged": "0.4.5",
+    "prettier": "2.5.1",
+    "simple-git-hooks": "2.7.0",
+    "stylelint": "14.1.0",
+    "stylelint-config-standard": "24.0.0",
+    "stylelint-order": "5.0.0"
   }
 }

@@ -1,9 +1,9 @@
 {
-  "*.{html}": [
+  "src/**/*.{html}": [
     "prettier --write",
     "git add"
   ],
-  "*.{css}": [
+  "src/**/*.{css}": [
     "stylelint --fix",
     "git add"
   ]
