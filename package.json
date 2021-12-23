@@ -21,9 +21,7 @@
     "url": "https://github.com/batruongq/html-css/issues"
   },
   "homepage": "https://github.com/batruongq/html-css#readme",
-  "dependencies": {
-    "normalize.css": "^8.0.1"
-  },
+  "dependencies": {},
   "devDependencies": {
     "nano-staged": "0.4.5",
     "parcel": "^2.0.1",
