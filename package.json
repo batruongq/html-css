@@ -2,7 +2,9 @@
   "name": "html-css",
   "version": "1.0.0",
   "description": "Just example for learning html css",
+  "source": "src/index.html",
   "scripts": {
+    "start": "parcel"
   },
   "repository": {
     "type": "git",
@@ -24,6 +26,7 @@
   },
   "devDependencies": {
     "nano-staged": "0.4.5",
+    "parcel": "^2.0.1",
     "prettier": "2.5.1",
     "simple-git-hooks": "2.7.0",
     "stylelint": "14.1.0",
